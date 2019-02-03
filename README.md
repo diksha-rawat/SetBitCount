@@ -1,6 +1,5 @@
 # SetBitCount
-A package to count set bits in continuous natural numbers in a range. 
-The package can work to find set bit in a number or in a range.
+A package to count set bits in, either a number or a range of continuous natural numbers
 
 To count set bits in a range, two values are required:
 * **start** : The starting natural number from where you want to count set bits.
@@ -19,7 +18,7 @@ pip install setbitcounter-pkg
 ```python
 from setbitcounter.countset import countsetbit
 ```
-- To count set bits of a number:
+- **To count set bits of a number:**
 
 ```python
 from setbitcounter.countset import countsetbit
@@ -27,7 +26,7 @@ print(countsetbit(3))
 ```
 above code will give output as 2
 
-- To count set bits in range:
+- **To count set bits in range:**
 
 ```python
 from setbitcounter.countset import countsetbit
