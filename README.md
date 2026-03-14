@@ -70,7 +70,7 @@ print(countsetbit(1, 7))
 
 ## 📬 Connect
 
-[Diksha Rawat](https://linkedin.com/in/yourprofile) | LinkedIn
+[Diksha Rawat](https://linkedin.com/in/diksharawat) | LinkedIn  
 [dev.to/diksharawat](https://dev.to/diksharawat) | Dev.to
 
 ---
