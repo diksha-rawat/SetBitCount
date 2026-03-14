@@ -22,6 +22,7 @@ This package counts set bits in a single number **or** across an entire range of
 ---
 
 ## 📦 Installation
+
 ```bash
 pip install setbitcounter-pkg
 ```
@@ -29,13 +30,15 @@ pip install setbitcounter-pkg
 ---
 
 ## 🚀 Usage
+
 ```python
-from setbitcounter.countset import countsetbit
+from setbitcounter.countsetbit import countsetbit
 ```
 
 ### Count set bits in a single number:
+
 ```python
-from setbitcounter.countset import countsetbit
+from setbitcounter.countsetbit import countsetbit
 
 print(countsetbit(3))
 # Output: 2
@@ -43,8 +46,9 @@ print(countsetbit(3))
 ```
 
 ### Count set bits across a range:
+
 ```python
-from setbitcounter.countset import countsetbit
+from setbitcounter.countsetbit import countsetbit
 
 print(countsetbit(1, 7))
 # Output: 12
